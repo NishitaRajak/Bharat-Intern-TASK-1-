@@ -1,1 +1,2 @@
-# Bharat-Intern-TASK-1-
+# BharatIntern
+Virtual Internship Tasks for Bharat Internship in Full Stack Development
